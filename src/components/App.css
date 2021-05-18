@@ -1,0 +1,147 @@
+/* Styles go here */
+
+.super{
+  margin:10px;
+}
+
+.Home_container {
+
+	margin-top: 200px;
+}
+
+#form {
+
+	padding : 80px 0;
+	margin: 0 auto;
+  width:80% ;
+
+}
+
+.pass{
+
+	padding-top: 10px;
+}
+
+#navbar{
+
+	position: sticky;
+    top : 0 ; 
+    z-index: 10;
+	background-color: #26f596;
+    background-image: linear-gradient(315deg, #26f596 0%, #0499f2 74%);
+}
+
+#search{
+
+	position: sticky;
+  top : 0 ; 
+  z-index: 10;
+	background-color: #26f596;
+  background-image: linear-gradient(315deg, #26f596 0%, #0499f2 74%);
+}
+
+.card-img-top
+{
+
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  width: auto;
+  height: 300px;
+}
+
+.h5
+{
+	padding: 40px 0;
+}
+
+#details
+{
+	padding: 40px 0;
+	margin-left: 50px;
+}
+
+.form-label
+{
+	padding-bottom: 15px;
+}
+.form-group
+{
+	padding-top: 10px
+}
+
+#info
+{
+  padding: 60px 0 ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.info-card{
+
+	padding-top: 60px;
+}
+
+.form
+{
+  border: 2px  solid grey;
+  border-radius: 2px;
+  width: 38%;
+  padding: 5px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.userInfo{
+  color:black;
+  margin-left: 600px;
+
+}
+
+.wrap {
+    width: 400px;
+    height: 200px;
+    padding: 0;
+    margin-left: 40px;
+    overflow: hidden;
+}
+
+.frame {
+    width: 1300px;
+    height: 1200px;
+    border: 0;
+    -ms-transform: scale(0.15);
+    -moz-transform: scale(0.15);
+    -o-transform: scale(0.15);
+    -webkit-transform: scale(0.15);
+    transform: scale(0.15);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+.docLink{
+  text-decoration: none !important;
+  color:black;
+}
+
+.docLink:hover{
+  text-decoration: none !important;
+  color:White;
+}
+
+
+
+
+
+/* Clear floats after the columns */
+.roww {
+  column-count: 3;
+  
+  margin:10px;
+}
